@@ -11,7 +11,7 @@ vulnerability assessment, web application exploitation, and injection attacks.
 | Lab | Tools | Writeup |
 |-----|-------|---------|
 | Reconnaissance & Vulnerability Assessment | Nmap, OSINT | [View](Reconnaissance&Vulnerability-Assessment.md) |
-| OWASP Juice Shop | DevTools, CyberChef | [View](OWASP-JuiceShopWeb Application-Security-Challange.md) |
+| OWASP Juice Shop | DevTools, CyberChef | [View](OWASP-JuiceShopWeb-Application-Security-Challange.md) |
 | DVWA Command Injection | DVWA, Linux CLI | [View](DVWA-Command-Injection.md) |
 
 ---
