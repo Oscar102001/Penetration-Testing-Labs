@@ -16,6 +16,9 @@ vulnerability assessment, web application exploitation, and injection attacks.
 | Reconnaissance & Vulnerability Assessment | Nmap, OSINT | [View](Reconnaissance&Vulnerability-Assessment.md) |
 | OWASP Juice Shop | DevTools, CyberChef | [View](OWASP-JuiceShopWeb-Application-Security-Challange.md) |
 | DVWA Command Injection | DVWA, Linux CLI | [View](DVWA-Command-Injection.md) |
+| Linux Privilage Escalation - Lab1 | Nmap, FTP, hydra, ssh | [View](LE.md) |
+| Linux Privilage Escalation - Lab2 | Nmap, Gobuster, reverseshell, Netcat  | [View](L2.md) |
+| Windows Privilage Escalation | Nmap, CVE, msfconsole, John the Ripper | [View](WPE.md) |
 
 ---
 
