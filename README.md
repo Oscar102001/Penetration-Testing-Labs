@@ -10,11 +10,9 @@ vulnerability assessment, web application exploitation, and injection attacks.
 
 | Lab | Tools | Writeup |
 |-----|-------|---------|
-TryHackMe: Blue (EternalBlue MS17-010) | Nmap, Metasploit | [View](thm-blue-eternalblue.md) |
 | TryHackMe: Basic Pentesting | Nmap, Gobuster, Hydra, John | [View](thm-basic-pentesting.md) |
 | EXAM 1: FTP → SSH → Root | Nmap, FTP, Hydra | [View](ctf-ftp-ssh-privesc.md) |
 | DAY 3: SSH Brute Force & Privesc | Nmap, Hydra, John | [View](ssh-bruteforce-privesc.md) |
-|
 | Reconnaissance & Vulnerability Assessment | Nmap, OSINT | [View](Reconnaissance&Vulnerability-Assessment.md) |
 | OWASP Juice Shop | DevTools, CyberChef | [View](OWASP-JuiceShopWeb-Application-Security-Challange.md) |
 | DVWA Command Injection | DVWA, Linux CLI | [View](DVWA-Command-Injection.md) |
